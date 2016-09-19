@@ -1,0 +1,6 @@
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task.2\Task.2\bin\Debug\Task.2.exe.config
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task.2\Task.2\bin\Debug\Task.2.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task.2\Task.2\bin\Debug\Task.2.pdb
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task.2\Task.2\obj\Debug\Task.2.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task.2\Task.2\obj\Debug\Task.2.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task.2\Task.2\obj\Debug\Task.2.pdb
