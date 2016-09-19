@@ -1,0 +1,6 @@
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_3\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_3\Task_3\bin\Debug\Task_3.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_3\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_3\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_3\Task_3\obj\Debug\Task_3.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_3\Task_3\obj\Debug\Task_3.pdb
