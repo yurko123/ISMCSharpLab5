@@ -1,0 +1,5 @@
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_10\Task_10\bin\Debug\Task_10.exe.config
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_10\Task_10\bin\Debug\Task_10.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_10\Task_10\bin\Debug\Task_10.pdb
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_10\Task_10\obj\Debug\Task_10.exe
+C:\Users\Юрій\Desktop\C#\ISMCSharpLab5\Task_10\Task_10\obj\Debug\Task_10.pdb
